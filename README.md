@@ -8,5 +8,5 @@ Semana 1
 + 04.02.2021  Creaccion de cuent github y creaccion de primer repositorio, descarga de plataformas. 
  
 Semana 2
-+ 10.02.2021
-+ 11.02.2021
++ 10.02.2021 Exposicion de terminos sobre estadistica y explicacion del uso del apartado de notas en "Teams".
++ 11.02.2021 Primer contacto y explicaciones sobre el uso de R-project y RStudio.
