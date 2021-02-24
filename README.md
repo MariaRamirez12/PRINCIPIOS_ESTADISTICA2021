@@ -16,5 +16,5 @@ Semana 3
 + 18.02.2021: Primeros pasos utilizando RStudio
 
 Semana 4
-+ 24.02.2021:
++ 24.02.2021:Solucion a laboratorio 1 
 + 25.02.2021: 
