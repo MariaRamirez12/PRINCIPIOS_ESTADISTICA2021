@@ -17,4 +17,4 @@ Semana 3
 
 Semana 4
 + 24.02.2021:Solucion a laboratorio 1 
-+ 25.02.2021: 
++ 25.02.2021: Estadisticas descriptivas 
