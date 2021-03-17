@@ -16,5 +16,13 @@ Semana 3
 + 18.02.2021: Primeros pasos utilizando RStudio
 
 Semana 4
-+ 24.02.2021:Solucion a laboratorio 1 
++ 24.02.2021:Solucion a laboratorio 2
 + 25.02.2021: Estadisticas descriptivas 
+
+Semana 5
++ 03.03.2021: Expliacion sobre diagrama de flujo de actividades y revision del laboratorio 3
++ 04.03.2021: Explicacion de siguiente tarea
+
+Semana 6
++ 10.03.2021:
++ 11.03.2021:
