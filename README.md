@@ -24,5 +24,9 @@ Semana 5
 + 04.03.2021: Explicacion de siguiente tarea
 
 Semana 6
-+ 10.03.2021:
-+ 11.03.2021:
++ 10.03.2021:Resumen graficas de un conjunto de datos.
++ 11.03.2021:Histogramas, barplot y pie (cuadro1.cvs)
+
+Semana 7
++ 17.03.2021:Correlacion entre dos variables. 
++ 18.03.2021: 
