@@ -29,4 +29,4 @@ Semana 6
 
 Semana 7
 + 17.03.2021:Correlacion entre dos variables. 
-+ 18.03.2021: 
++ 18.03.2021: Ejercicios de correlacion en RStudio. 
