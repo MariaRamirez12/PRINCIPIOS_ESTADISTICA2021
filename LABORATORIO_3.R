@@ -2,6 +2,7 @@
 # Matricula: 1965814
 # Fecha: 01.03.2021
 
+~/gtihob/PRINCIPIOS_ESTADISTICA2021/cuadro1.csv
 
 # Parte 2 -----------------------------------------------------------------
 
