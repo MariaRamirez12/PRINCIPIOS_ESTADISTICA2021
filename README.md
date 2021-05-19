@@ -30,3 +30,15 @@ Semana 6
 Semana 7
 + 17.03.2021:Correlacion entre dos variables. 
 + 18.03.2021: Ejercicios de correlacion en RStudio. 
+
+Semana 8
++ 24.03.2021: Correlacion(continuacion)
++ 25.03.2021: 
+
+Semana 9
++ 14.04.2021: Analisis de regresion.
++ 15.04.2021: Asincronica.
+
+Semana 10
++ 21.04.2021: Analisis de regresion.
++ 22.04.2021: 
