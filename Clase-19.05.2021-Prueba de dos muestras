@@ -1,0 +1,34 @@
+# Maria de Jesus Ramirez Navejar 
+# Principios de Estadistica
+# Fecha: 19.05.2021
+# Prueba de t de dos muestras 
+
+
+prod <- read.csv("https://raw.githubusercontent.com/MariaRamirez12/PRINCIPIOS_ESTADISTICA2021/main/mainproduccion1.csv")
+head(prod)
+summary(prod)
+prod$Tiempo <- factor(prod$ï..Tiempo)
+summary(prod)
+is.factor(prod$Tiempo)
+
+boxplot(prod$Kgsem ~ prod$Tiempo, col = "lightgreen")
+
+# Preguntas de investigacion 
+# Estamos interesados en conocer si la produccion en Kg de semilla de los individuos de pinos es diferente en el 
+# año 2012 y 2013 
+
+# Hipotesis nula (H0): No exixte diferencia entre la prod. en Kg de los años 2012 y 2013
+# Hipotesis alternatica (H1): Existe difernecia entre la prod. en Kg de los años 2012 y 2013
+
+
+# Revisar la normalidad
+
+shapiro.test(prod$Kgsem)
+
+# revisar la homegeneidad de varianzas 
+
+var.test(prod$Kgsem ~ prod$Tiempo)
+
+# Prueba de t para muestras dependientes 
+
+t.test(prod$Kgsem ~ prod$Tiempo, pareid = T)
