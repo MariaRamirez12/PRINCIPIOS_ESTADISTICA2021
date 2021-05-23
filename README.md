@@ -41,4 +41,15 @@ Semana 9
 
 Semana 10
 + 21.04.2021: Analisis de regresion.
-+ 22.04.2021: 
++ 22.04.2021: Ejercicios datos cnpy.
+
+Semana 11
++ 28.04.2021: Normalidad y homegneidad de varianzas.
++ 29.04.2021: Asincrona.
+
+Semana 12
++ 12.05.2021: Prueba T de una muestra.
++ 13.05.2021: Prueba de T dos muestras independientes.
+
+Semana 13
++ 19.05.2021: 
