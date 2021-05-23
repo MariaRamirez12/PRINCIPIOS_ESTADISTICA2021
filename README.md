@@ -52,5 +52,5 @@ Semana 12
 + 13.05.2021: Prueba de T dos muestras independientes.
 
 Semana 13
-+ 19.05.2021: Pruebas T independientes.
++ 19.05.2021: Pruebas T dependientes.
 + 20.05.2021: Fin de curso.
